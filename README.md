@@ -40,9 +40,14 @@ The Liberty files are present in the library path,
 
 Synthesis RTL Schematic :
 
+![Screenshot (129)](https://github.com/user-attachments/assets/1e08cdac-5ea7-4fc8-bebf-c23d7fd4767e)
+
 Area report:
+![Screenshot (132)](https://github.com/user-attachments/assets/51ffabc1-13e4-4ff1-b572-509771fb5e11)
 
 Power Report:
+
+![Screenshot (130)](https://github.com/user-attachments/assets/2849e887-9e41-49ed-a6d9-e66d738a5b04)
 
 Result:
 
